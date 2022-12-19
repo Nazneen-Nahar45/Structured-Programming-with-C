@@ -6,5 +6,6 @@ In the programming world, C is the godfather of all other programming languages.
 2. Bitwise operator
 3. Conditional operator
 4. if-else
+5.switch case
  
 ![Features of c](https://user-images.githubusercontent.com/119800014/208307623-110dc2c7-ff42-4c74-b444-af27defabd6e.jpg)
