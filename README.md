@@ -7,7 +7,7 @@ In the programming world, C is the godfather of all other programming languages.
 3. Conditional operator
 4. if-else
 5. switch case
-6. Star Pattern
-7. 
+6. Loop and iteration
+7. Star Pattern
  
 ![Features of c](https://user-images.githubusercontent.com/119800014/208307623-110dc2c7-ff42-4c74-b444-af27defabd6e.jpg)
