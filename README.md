@@ -9,5 +9,6 @@ In the programming world, C is the godfather of all other programming languages.
 5. switch case
 6. Loop and iteration
 7. Star Pattern
+8. Functions and recursion
  
 ![Features of c](https://user-images.githubusercontent.com/119800014/208307623-110dc2c7-ff42-4c74-b444-af27defabd6e.jpg)
