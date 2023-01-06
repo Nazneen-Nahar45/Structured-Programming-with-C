@@ -11,6 +11,5 @@ In the programming world, C is the godfather of all other programming languages.
 7. Star Pattern
 8. Functions and recursion
  
- 
 
-![Naz drawio](https://user-images.githubusercontent.com/119800014/211061101-30194af1-ac6c-4e76-9f6a-deaff9cd8694.png)
+![C](https://user-images.githubusercontent.com/119800014/211061240-acdb2b4c-175a-48eb-b4dd-e57951aa5d43.PNG)
