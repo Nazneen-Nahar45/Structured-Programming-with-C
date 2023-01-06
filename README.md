@@ -12,4 +12,5 @@ In the programming world, C is the godfather of all other programming languages.
 8. Functions and recursion
  
  
-![C](https://user-images.githubusercontent.com/119800014/211060808-647826e3-785a-426e-9ade-b473c806138f.PNG)
+
+![Naz drawio](https://user-images.githubusercontent.com/119800014/211061101-30194af1-ac6c-4e76-9f6a-deaff9cd8694.png)
